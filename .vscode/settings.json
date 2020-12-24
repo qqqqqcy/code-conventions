@@ -1,0 +1,11 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    // 保存时自动 Format
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+}
